@@ -19,3 +19,19 @@ Run:
 Recursive -> 10! = 3628800
 Iterative -> 10! = 3628800
 ```
+
+###Project 2 - Currency Calculator
+Convert money from one currency to another
+
+Compile:
+
+```
+crystal build ./currency.cr
+```
+
+Run:
+
+```
+./currency 100 USD JPY
+100 USD = 12489.4 JPY
+```
